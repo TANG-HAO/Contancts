@@ -1,0 +1,2 @@
+include ':app', ':QQImageList', ':SoftWareUpdate', ':WeChatLogin', ':FrameLayout', ':XmlyLogin', ':QQChatMessage', ':FlyMove', ':TestListener', ':LanuchActivityTest', ':preferenceactivityTest', ':ContactListTest', ':myapplication'
+rootProject.name='HelloWorld'
